@@ -1,5 +1,10 @@
 /__pycache__
 /notebooks/data
+/notebooks/outputs
+/notebooks/runs
+/notebooks/validation_outputs
+/notebooks/validation_reports
 *.csv
 *.png
 *.pt
+*.jpg
