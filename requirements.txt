@@ -1,0 +1,15 @@
+# === Data handling ===
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+pyyaml>=6.0.1
+scikit-learn>=1.3.0
+
+# === Computer vision ===
+opencv-python>=4.8.0
+
+# === Deep learning / YOLO ===
+ultralytics>=8.3.0   # Incluye YOLOv8/YOLOv9
+
+# === Visualization (only used in validation notebooks) ===
+matplotlib>=3.7.0
