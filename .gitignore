@@ -4,6 +4,10 @@
 /notebooks/runs
 /notebooks/validation_outputs
 /notebooks/validation_reports
+/notebooks/.jupyter_config
+/notebooks/.jupyter_runtime
+/notebooks/.ipython
+/notebooks/.local_share_jupyter
 *.csv
 *.png
 *.pt
